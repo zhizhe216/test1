@@ -1,3 +1,6 @@
+func test3() {
+	a := 1
+}
 add one line
 func test() {
 	a := 1
