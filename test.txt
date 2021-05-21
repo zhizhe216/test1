@@ -1,4 +1,9 @@
 add one line
+func test() {
+	a := 1
+	b := 2
+	c := 3
+}
 zhizhe add
 hzs add
 zhizhe add again
