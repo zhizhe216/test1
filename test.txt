@@ -23,3 +23,6 @@ func test2() {
 	e := 4
 	a := 100
 }
+func test3() {
+	aaa := 999
+}
