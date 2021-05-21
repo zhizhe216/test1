@@ -10,3 +10,8 @@ hzs add 1603
 hzs add 1606
 hzs add 1610
 hzs add 1616
+func test2() {
+	d := 3
+	e := 4
+	a := 100
+}
